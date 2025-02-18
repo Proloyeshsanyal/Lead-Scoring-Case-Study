@@ -9,6 +9,8 @@ There are some more problems presented by the company which your model should be
 
 
 Results Expected
+
+
 A well-commented Jupyter notebook with at least the logistic regression model, the conversion predictions and evaluation metrics.
 The word document filled with solutions to all the problems.
 The overall approach of the analysis in a presentation.
